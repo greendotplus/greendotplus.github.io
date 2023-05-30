@@ -1,0 +1,10 @@
+---
+layout: post
+title: "test"
+date: 2023-05-30 18:49:00
+categories: technology
+---
+# Name it.
+
+1) Cherries
+2) Apples
